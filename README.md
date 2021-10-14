@@ -1,2 +1,2 @@
-# cryptopals
-My solutions to the cryptopals challenges.
+# Cryptopals
+My solutions to the [cryptopals challenges](https://cryptopals.com/).
